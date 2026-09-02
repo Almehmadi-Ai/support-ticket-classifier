@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+tickets.db
+tickets.db-shm
+tickets.db-wal
+*.log
+.DS_Store
+.vscode/
+.idea/
